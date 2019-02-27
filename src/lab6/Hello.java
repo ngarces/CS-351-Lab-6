@@ -5,6 +5,7 @@ public class Lab6{
   
   public static void main(String[] args){
     System.out.println("Hello I have changed from the Master Branch");
+    System.out.println("I also made a change - Nick");
   }
   
     
